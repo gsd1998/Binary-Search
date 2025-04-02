@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//This Question is not from Striver A2Z DSA Sheet
 public class FindDuplicateInArray {
 
     public static void main(String[] args){
